@@ -1,0 +1,6 @@
+g++ -osudoku main.cpp rules.cpp saveFile.cpp Sudoku.cpp
+
+./sudoku --generate 1
+./sudoku --remove Sudoku1 2
+./sudoku --solver Sudoku1_Puzzle
+
