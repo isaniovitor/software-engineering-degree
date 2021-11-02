@@ -1,3 +1,4 @@
 {
-  "java.project.sourcePaths": ["Semestre_4/PDS/3-GRASP01"]
+  "java.project.sourcePaths": ["Semestre_4/PDS/3-GRASP01"],
+  "C_Cpp.errorSquiggles": "Disabled"
 }
