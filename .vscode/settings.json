@@ -1,4 +1,7 @@
 {
-  "java.project.sourcePaths": ["Semestre_4/PDS/4-GRASP2"],
-  "C_Cpp.errorSquiggles": "Disabled"
+  "java.project.sourcePaths": ["Semestre_4/PDS/5-trab01"],
+  "C_Cpp.errorSquiggles": "Disabled",
+  "files.associations": {
+    "inet.h": "c"
+  }
 }
